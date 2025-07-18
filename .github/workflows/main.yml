@@ -10,4 +10,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Run Feed Generator
-        uses: Kamal-Dhital/learn-githubaction@main
+        uses: Kamal-Dhital/podcast-generator@main
